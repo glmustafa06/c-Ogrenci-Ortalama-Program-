@@ -1,0 +1,28 @@
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.AssemblyInfoInputs.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.AssemblyInfo.cs
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.csproj.CoreCompileInputs.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\bin\Debug\net8.0\c# consoleApp.exe
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\bin\Debug\net8.0\c# consoleApp.deps.json
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\bin\Debug\net8.0\c# consoleApp.runtimeconfig.json
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\bin\Debug\net8.0\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\bin\Debug\net8.0\c# consoleApp.pdb
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\refint\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.pdb
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\c# consoleApp.genruntimeconfig.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\c# consoleApp\obj\Debug\net8.0\ref\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\bin\Debug\net8.0\c# consoleApp.exe
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\bin\Debug\net8.0\c# consoleApp.deps.json
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\bin\Debug\net8.0\c# consoleApp.runtimeconfig.json
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\bin\Debug\net8.0\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\bin\Debug\net8.0\c# consoleApp.pdb
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.AssemblyInfoInputs.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.AssemblyInfo.cs
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.csproj.CoreCompileInputs.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\refint\c# consoleApp.dll
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.pdb
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\c# consoleApp.genruntimeconfig.cache
+c:\Users\pc.DESKTOP-GE9UJQI\Desktop\221120231005 Mustafa Gül\obj\Debug\net8.0\ref\c# consoleApp.dll
